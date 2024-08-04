@@ -1,0 +1,59 @@
+/*h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    text-transform:capitalize;
+}
+
+p {
+   text-align: center; 
+   text-transform: capitalize;
+   font-family: "Playwrite RO", cursive;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+}*/
+
+/*img {
+    border: 10px solid black;
+    margin-left: 100px;
+}*/
+
+html {
+    background-color:antiquewhite;
+}
+
+.poster1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    text-transform:capitalize;
+}
+
+p {
+    text-align: center; 
+    text-transform: capitalize;
+    font-family: "Playwrite RO", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+ }
+
+ img {
+    border: 5px solid burlywood;
+ }
+ .footer {
+    text-align: left;
+ }
+
+ li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
